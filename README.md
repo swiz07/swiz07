@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Swizel
 
-<!--
-**swiz07/swiz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+- 🎨 I love drawing during my free time.
+- 💻 I'm skilled in:
+  - **SQL**
+  - **Java**
+  - **JavaScript**
+  - **React**
+  - **Bootstrap** 
+  - **HTML** & **CSS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently, I'm focusing on improving my skills in **React**, **SQL** and **Bootstrap**.
+- 📚 I’m always exploring new technologies and looking to enhance my development knowledge.
+- 🔧 Feel free to explore my repositories and check out my work!
+
+## Let's Connect! 📫
+- Feel free to reach out to me at [LinkedIn](www.linkedin.com/in/swizeldemelo)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@swizeldemelo/30-nites-of-code)  
+  ![@swizeldemelo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=swizeldemelo)
+
+  Thanks for visiting! 🌟
