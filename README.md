@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 - 🔧 Feel free to explore my repositories and check out my work!
 
 ## Let's Connect! 📫
-- Feel free to reach out to me at [LinkedIn](www.linkedin.com/in/swizeldemelo)
+- Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/swizeldemelo/)
 
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@swizeldemelo/30-nites-of-code)  
