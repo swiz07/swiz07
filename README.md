@@ -11,6 +11,8 @@ Welcome to my GitHub profile!
   - **Bootstrap**
   - **Python**
   - **PHP**
+  - **Node.js**
+  - **TypeScript**
   - **HTML** & **CSS**
 
 - I’m always exploring new technologies and looking to enhance my development knowledge.
