@@ -1,28 +1,24 @@
-# Hi, I'm Swizel
+Hi, I'm Swizel 
 
-Welcome to my GitHub profile! 
+First Class Computer Science Graduate interested in Software Engineering, Full-Stack Development and Data/Analytics.
 
-- I love drawing during my free time.
-- I'm skilled in:
-  - **SQL**
-  - **Java**
-  - **JavaScript**
-  - **React**
-  - **Bootstrap**
-  - **Python**
-  - **PHP**
-  - **Node.js**
-  - **TypeScript**
-  - **HTML** & **CSS**
+I enjoy building practical applications and exploring new technologies. Through academic and personal projects, I have developed experience with software development, API integration, databases and data processing.
 
-- I’m always exploring new technologies and looking to enhance my development knowledge.
-- Feel free to explore my repositories and check out my work!
+## Technical Skills
+Languages: Java, Python, JavaScript, SQL
+Web: HTML, CSS, React, Tailwind CSS
+APIs: REST APIs, API Integration
+Database: PostgreSQL
+Tools: Git, GitHub
+Cloud: AWS
 
-## Let's Connect! 
-- Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/swizeldemelo/)
+## Featured Projects
+-Full-Stack E-Commerce — Full-stack application currently under development
+-Resume Analyser — Python application using OpenAI API and PDF processing
+-3D Portfolio — Interactive portfolio built with React and Three.js
+-Weather Application — Weather application using the OpenWeather API
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@swizeldemelo/30-nites-of-code)  
-  ![@swizeldemelo #30NitesOfCode](https://www.codedex.io/api/petStatus?user=swizeldemelo)
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/swizeldemelo/)
+[Portfolio](https://swiz07.github.io/3d_portfolio/)
 
-  Thanks for visiting! 
