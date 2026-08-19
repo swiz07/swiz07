@@ -19,7 +19,7 @@ I enjoy building practical applications and exploring new technologies. Through 
 - **Resume Analyser** — Python application using OpenAI API and PDF processing
 - **3D Portfolio** — Interactive portfolio built with React and Three.js
 - **Weather Application** — Weather application using the OpenWeather API
-- 
+
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/swizeldemelo/)
 - [Portfolio](https://swiz07.github.io/3d_portfolio/)
