@@ -1,4 +1,4 @@
-Hi, I'm Swizel 
+# Hi, I'm Swizel 
 
 First Class Computer Science Graduate interested in Software Engineering, Full-Stack Development and Data/Analytics.
 
