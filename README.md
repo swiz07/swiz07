@@ -1,12 +1,13 @@
 # Hi, I'm Swizel 
 
-First Class Computer Science Graduate interested in Software Engineering, Full-Stack Development and Data/Analytics.
+First Class Computer Science Graduate interested in Software Engineering, Full-Stack Development and Data Analytics.
 
-I enjoy building practical applications and exploring new technologies. Through academic and personal projects, I have developed experience with software development, API integration, databases and data processing.
+I enjoy building practical applications, solving problems and exploring new technologies. Through academic and personal projects, I have developed experience in software development, API integration, databases, data processing and visualisation.
 
 ## Technical Skills
 
 - **Languages:** Java, Python, JavaScript, SQL
+- **Data Analytics**:Microsoft Excel, Power BI, Pandas
 - **Web:** HTML, CSS, React, Tailwind CSS
 - **APIs:** REST APIs, API Integration
 - **Database:** PostgreSQL
@@ -19,6 +20,7 @@ I enjoy building practical applications and exploring new technologies. Through 
 - **Resume Analyser** — Python application using OpenAI API and PDF processing
 - **3D Portfolio** — Interactive portfolio built with React and Three.js
 - **Weather Application** — Weather application using the OpenWeather API
+- **Data-Analytics-Portfolio** - A collection of projects demonstrating practical skills in Excel, SQL, Python and Power BI, covering data cleaning, analysis, visualisation and dashboard development.
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/swizeldemelo/)
